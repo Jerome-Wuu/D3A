@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Focus on Primary: Differential Diverse Data Augmentation for Generalization in Visual Reinforcement Learning
 
 **[07/15/2024] Under review as a conference paper at AAAI 2025**
@@ -22,3 +23,6 @@ python3 src/train.py \
   --algorithm d3a \
   --seed 0
 ```
+=======
+# D3A
+>>>>>>> 92084012bd9c71850170a13f9e8196668b29a569
