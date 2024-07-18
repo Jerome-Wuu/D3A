@@ -5,7 +5,7 @@
 Official implementations of 
 **Focus on Primary: Differential Diverse Data Augmentation for Generalization in Visual Reinforcement Learning** (DDA&D3A)
 
-Benchmark for generalization in continuous control from pixels, based on [DMControl Generalization Benchmark](https://github.com/nicklashansen/dmcontrol-generalization-benchmark) and [RL-Vigen](https://github.com/gemcollector/RL-ViGen).
+Benchmarks for generalization in continuous control from pixels are based on [DMControl Generalization Benchmark](https://github.com/nicklashansen/dmcontrol-generalization-benchmark) and [RL-Vigen](https://github.com/gemcollector/RL-ViGen).
 
 Note: To run the program you need to add dependency files from [data](https://github.com/gemcollector/TLDA/tree/master/src/env/data) to local . /src/env/data
 ## Training 
