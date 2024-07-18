@@ -7,7 +7,7 @@ Official implementations of
 
 Benchmarks for generalization in continuous control from pixels are based on [DMControl Generalization Benchmark](https://github.com/nicklashansen/dmcontrol-generalization-benchmark) and [RL-Vigen](https://github.com/gemcollector/RL-ViGen).
 
-Note: To run the program you need to add dependency files from [data](https://github.com/gemcollector/TLDA/tree/master/src/env/data) to local . /src/env/data
+Note: To run the program you need to add dependency files from [data](https://github.com/nicklashansen/svea-vit/tree/main/src/env/data) to local . /src/env/data
 ## Training 
 
 The `scripts` directory contains training and evaluation bash scripts for all the included algorithms. Alternatively, you can call the python scripts directly, e.g. for training call
