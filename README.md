@@ -1,6 +1,6 @@
 # Focus on Primary: Differential Diverse Data Augmentation for Generalization in Visual Reinforcement Learning
 
-**[07/15/2024] Under review as a conference paper at AAAI 2025**
+**[01/07/2025] Under review as a conference paper at IJCAI 2025**
 
 Official implementations of 
 **Focus on Primary: Differential Diverse Data Augmentation for Generalization in Visual Reinforcement Learning** (DDA&D3A)
